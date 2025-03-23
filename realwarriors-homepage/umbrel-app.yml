@@ -2,7 +2,7 @@ manifestVersion: 1
 id: realwarriors-homepage
 name: Homepage
 tagline: Replace this tagline with your app's tagline
-icon: ./homepage.svg
+icon: https://github.com/homarr-labs/dashboard-icons/blob/e9635e96d3eb351ddaddd1d45d7d6ddecec76e6d/png/homepage.png
 category: Development
 version: "1.0.0"
 port: 3000
