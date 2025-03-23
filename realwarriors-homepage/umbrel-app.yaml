@@ -1,0 +1,31 @@
+manifestVersion: 1
+id: realwarriors-homepage
+name: Homepage
+tagline: Replace this tagline with your app's tagline
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 3000
+description: >-
+  A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages.
+  Easily configured via YAML files or through docker label discovery.
+
+developer: Homepage
+website: https://gethomepage.dev
+submitter: Umbrel
+submission: https://github.com/gethomepage/homepage
+repo: https://github.com/gethomepage/homepage
+support: https://github.com/gethomepage/homepage/issues
+gallery:
+  - https://gethomepage.dev/assets/homepage_demo_clip.webp
+releaseNotes: >-
+  Chore: update minecraftstatuspinger to 1.2.2 by @shamoon in #4982
+  Fix: fix Kubernetes stats in v1.0.0 by @shamoon in #4984
+  Change: re-enable k8s ingress by default by @shamoon in #4988
+  Fix: fix bookmark heights again by @shamoon in #4997
+  Fix: re-add tailwind css safelist by @shamoon in #4999
+  Fix: fix custom quicklaunch search suggestions without search widget by @shamoon in #5003
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
